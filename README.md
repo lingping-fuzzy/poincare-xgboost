@@ -41,7 +41,9 @@ We sincerely thank the original authors for publicly sharing their code, which m
 
 Please refer to each repository for specific usage, citation, and license details.
 
+# Fast implementation
 
+please find this repository for speed-up implementation [Lukus](https://github.com/lowoncuties/HyperbolicML)
 
 
 # contact
